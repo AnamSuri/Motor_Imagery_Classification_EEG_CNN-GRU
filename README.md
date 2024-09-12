@@ -16,8 +16,11 @@ Numpy and Scipy (http://www.scipy.org/install.html)
 Scikit-Learn (http://scikit-learn.org/stable/install.html)
 
 Python 3.7
+
 Pytroch 1.3.1
+
 Cudatoolkit 10.1.243
+
 Cudnn 7.6.3
 
 ## Cross-session and Cross-subject experiments
