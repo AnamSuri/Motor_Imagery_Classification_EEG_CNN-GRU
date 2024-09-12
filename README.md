@@ -4,4 +4,7 @@ In this, we have proposed a novel hybrid model EEG_CNN-GRU consisting of Convolu
 ![Alt text](eeg_cnn_gru_architecture.png)
 
 We have performed different cross-session and cross-subject experiments. The genral scenario of the experiments performed in the literature is described in the follwoing figure. For this study, we have incorporated scenarios 'c' and 'd' only.
+![Alt text](experimental_scenarios.png)
+
+
 
