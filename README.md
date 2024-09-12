@@ -1,1 +1,3 @@
 # Motor_Imagery_Classification_EEG_CNN-GRU
+This repository consists of experiments and code files for Motor Imagery Classification on "A large EEG dataset for studying cross-session variability in motor imagery brain-computer interface.
+In this, we have proposed a novel hybrid model EEG_CNN-GRU consisting of Convolutional Neural Networks (CNNs) and Gated Recurrent Units (GRU) to capture spatio-temporal patterns in the EEG data. The architecture of the proposed model is gievn below:
